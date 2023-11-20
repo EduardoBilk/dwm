@@ -1,5 +1,6 @@
 dwm - dynamic window manager
 ============================
+This is my build of dwm.
 dwm is an extremely fast, small, and dynamic window manager for X.
 
 
@@ -7,6 +8,16 @@ Requirements
 ------------
 In order to build dwm you need the Xlib header files.
 
+Patches
+------------
+as listed on `patches` folder:
+- Alpha
+- Autostart
+- Full Gaps
+- Move Stack
+- Pertag
+- Self restart
+- Split Status
 
 Installation
 ------------
